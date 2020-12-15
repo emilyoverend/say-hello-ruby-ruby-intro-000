@@ -4,6 +4,6 @@ RSpec.configure do |config|
   # config here
 end
 
-def say_hello(name = "Ruby programmer")
+def say_hello(name, language="Ruby")
   puts "Hello, #{name}"
 end
