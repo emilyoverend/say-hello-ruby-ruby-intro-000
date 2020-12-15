@@ -4,6 +4,6 @@ RSpec.configure do |config|
   # config here
 end
 
-def say_hello 
+def say_hello
   puts "Hello, #{name}"
 end 
